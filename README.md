@@ -29,8 +29,14 @@ Inspired by:
 
 ## io, 🟡input/output,
 
+## ro, 🟡read-only,
+
 ## m, 🟡memory, e.g. in malloc
+
+## sa, 🟡socketaddress, context dependend
 
 ## sys, 🟡system, e.g. sys/socket.h
 
 ## sysoff, 🟡Systemoffset, rare usage
+
+## wr, 🟡write-read
