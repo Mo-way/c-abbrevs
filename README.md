@@ -3,17 +3,16 @@ Abbreviations commonly used in C / Linux code
 
 I couldn't find this ressources on the web. If you found it, *please* open an issue with the link! Thanks.
 
-## a, ASCII, old name for string see: https://stackoverflow.com/q/17128470
+## a, 🟡ASCII, as in atoi see: https://stackoverflow.com/q/17128470
 
-## fd, file descriptor,
+## fd, 🟡file descriptor,
 
-## fda, file descriptor array,
+## fda, 🟡file descriptor array,
 
-## fp, file pointer, 
+## fp, 🟡file pointer, 
 
-## i, iterator, small scope
+## i, 🟡iterator 🟡int, small scope
 
-## m, memory, in malloc
+## m, 🟡memory, e.g. in malloc
 
-
-## sysoff, Systemoffset, rare usage
+## sysoff, 🟡Systemoffset, rare usage
