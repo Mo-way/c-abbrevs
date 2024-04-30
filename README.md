@@ -21,6 +21,8 @@ Inspired by:
 
 ## i, 🟡iterator 🟡int, small scope
 
+## io, 🟡input/output,
+
 ## m, 🟡memory, e.g. in malloc
 
 ## sysoff, 🟡Systemoffset, rare usage
