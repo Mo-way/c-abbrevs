@@ -27,7 +27,11 @@ Inspired by:
 
 ## i, 🟡iterator 🟡int, small scope
 
+## if, 🟡interface, network mostly
+
 ## io, 🟡input/output,
+
+## ll, 🟡link-layer, as in sockaddr_ll
 
 ## ro, 🟡read-only,
 
