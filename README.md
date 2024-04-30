@@ -3,7 +3,7 @@ Abbreviations commonly used in C / Linux code
 
 I couldn't find this ressources on the web. If you found it, *please* open an issue with the link! Thanks.
 
-## a, 🟡ASCII, as in atoi see: https://stackoverflow.com/q/17128470
+## a, 🟡ASCII, as in [atoi](https://stackoverflow.com/q/17128470)
 
 ## fd, 🟡file descriptor,
 
