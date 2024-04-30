@@ -13,6 +13,12 @@ Inspired by:
 
 ## a, 🟡ASCII, as in [atoi](https://stackoverflow.com/q/17128470)
 
+## AF, 🟡address family, as in AF_INET
+
+## buf, 🟡buffer,
+
+## DGRAM, 🟡datagram, i.e. UDP
+
 ## fd, 🟡file descriptor,
 
 ## fda, 🟡file descriptor array,
@@ -24,5 +30,7 @@ Inspired by:
 ## io, 🟡input/output,
 
 ## m, 🟡memory, e.g. in malloc
+
+## sys, 🟡system, e.g. sys/socket.h
 
 ## sysoff, 🟡Systemoffset, rare usage
