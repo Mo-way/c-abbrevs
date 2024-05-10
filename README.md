@@ -43,4 +43,6 @@ Inspired by:
 
 ## sysoff, 🟡Systemoffset, rare usage
 
+## uapi, 🟡Userpace API, Kernel folder
+
 ## wr, 🟡write-read
