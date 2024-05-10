@@ -43,6 +43,6 @@ Inspired by:
 
 ## sysoff, 🟡Systemoffset, rare usage
 
-## uapi, 🟡Userpace API, Kernel folder
+## uapi, 🟡Userpace API, Kernel, [Summary](https://stackoverflow.com/questions/18858190/whats-in-include-uapi-of-kernel-source-project)
 
 ## wr, 🟡write-read
