@@ -33,6 +33,10 @@ Inspired by:
 
 ## ll, 🟡link-layer, as in sockaddr_ll
 
+## perout, 🟡periodic output
+
+## pps, 🟡pulse per second
+
 ## ro, 🟡read-only,
 
 ## m, 🟡memory, e.g. in malloc
