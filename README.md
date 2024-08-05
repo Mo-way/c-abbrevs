@@ -1,5 +1,5 @@
 # c-abbrevs
-Abbreviations commonly used in C / Linux code.
+Abbreviations commonly used in C / Linux Kernel code.
 
 I couldn't find this ressources on the web. 
 If you found it, I'd be more than happy if you open an issue with the link! Thanks. 
@@ -23,6 +23,8 @@ Inspired by:
 
 ## fda, 🟡file descriptor array,
 
+## fec, 🟡fast ethernet controller, e.g. Motorola MPC8xx
+
 ## fp, 🟡file pointer, 
 
 ## i, 🟡iterator 🟡int, small scope
@@ -33,9 +35,9 @@ Inspired by:
 
 ## ll, 🟡link-layer, as in sockaddr_ll
 
-## perout, 🟡periodic output
+## perout, 🟡periodic output,
 
-## pps, 🟡pulse per second
+## pps, 🟡pulse per second,
 
 ## ro, 🟡read-only,
 
