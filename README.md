@@ -9,9 +9,15 @@ Inspired by:
 - [Code Abbreviations](https://github.com/abbrcode/abbreviations-in-code)
 - [Kernel Glossary](https://kernelnewbies.org/KernelGlossary)
 
-
+# XtoY style Linux functions
 
 ## a, 🟡ASCII, as in [atoi](https://stackoverflow.com/q/17128470)
+
+## n, 🟡network, as in [aton](https://beej.us/guide/bgnet/html/#inet_ntoaman)
+
+## p, 🟡presentation/printable, as in [pton](https://beej.us/guide/bgnet/html/#inet_ntopman)
+
+# General abbrevs:
 
 ## AF, 🟡address family, as in AF_INET
 
